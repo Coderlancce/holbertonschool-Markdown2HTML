@@ -7,5 +7,5 @@ if len(sys.argv) < 3:
     exit (1)
 
 if not os.path.exists(sys.argv[1]):
-    sys.stderr.write("Missing " + sys.argv[1] + "\n")
+    sys.stderr.write('Missing ' + sys.argv[1] + '\n')
     exit(1)
