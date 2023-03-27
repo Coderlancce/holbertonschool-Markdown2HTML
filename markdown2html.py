@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" review if some file is here """
+
 import sys
 import os
 
